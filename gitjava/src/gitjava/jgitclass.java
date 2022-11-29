@@ -9,7 +9,7 @@ public class jgitclass {
 
 	        System.out.println("Enter two numbers: " + first + " " + second);
 	        int sum = first + second;
-
+//printing Result
 	        System.out.println("The sum is: " + sum);
 	    }
 
